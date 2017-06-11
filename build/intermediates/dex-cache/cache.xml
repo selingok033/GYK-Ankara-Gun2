@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/selin/Desktop/HaberUygulamasi/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="573d00834437b30aaf13a5e05e3b633189d7264e">
+        <dex dex="/home/selin/Desktop/HaberUygulamasi/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_c67acda4726fe9fe323821824df661e32ec7d3b9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/selin/Desktop/HaberUygulamasi/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="/home/selin/Desktop/HaberUygulamasi/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_a18851d1fc205d9166142df5f30d8dbaf03caf55/classes.dex" />
+    </item>
+
+</items>
